@@ -114,6 +114,6 @@ const setVideoTracks = async () => {
         } catch(error) {
           console.error(error);
         }
-      });    
+      });
 
       setVideoTracks();
